@@ -19,6 +19,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=ffffff" alt="Rust">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5">
@@ -27,6 +28,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff" alt="Vite">
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=ffffff" alt="Tauri">
   <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=ffffff" alt="Cloudflare Workers">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=ffffff" alt="Flask">
@@ -40,6 +43,7 @@
 | [icloud-album-viewer](https://github.com/Linn-0412/icloud-album-viewer) | iCloud 共有アルバムの軽量ビューア | JavaScript, CSS, HTML | Cloudflare Workers, D1, Wrangler, Node.js, Nodemailer |
 | [pip-kanpe-tool](https://github.com/Linn-0412/pip-kanpe-tool) | ブラウザで使う PiP カンペツール | JavaScript, CSS, HTML | Document Picture-in-Picture API, IndexedDB, localStorage, Chrome / Edge Extension |
 | [pip-kanpe-tool-desktop](https://github.com/Linn-0412/pip-kanpe-tool-desktop) | PiP カンペツールのデスクトップ版 | JavaScript, CSS, HTML, Rust | Tauri v2, Tauri updater, global shortcut, GitHub Releases |
+| [pokepoke](https://github.com/Linn-0412/pokepoke) | ポケポケのおすすめパック計算ツール | TypeScript, CSS, HTML | React, Vite, Vitest, Cloudflare Workers, GitHub Actions |
 | [python-security-checker](https://github.com/Linn-0412/python-security-checker) | Python コード診断ツール | Python, Shell, C++ | Flask, Jinja2, Bandit, Pylint, Safety, ReportLab |
 | [test_cpu](https://github.com/Linn-0412/test_cpu) | CPU / メモリ / I/O テストツール | Python | psutil, NumPy, SpeechRecognition, noisereduce, pydub, google-generativeai |
 | [tets_network](https://github.com/Linn-0412/tets_network) | ネットワーク系テストツール | Python | aiohttp, Rich |
@@ -48,6 +52,7 @@
 
 - 作業用の画像や情報をすばやく参照するためのビューア
 - ローカル環境で完結しやすい小型ツール
+- データを集計して「次に何をすべきか」を判断しやすくする計算ツール
 - ブラウザ API とデスクトップアプリを組み合わせたユーティリティ
 - Python による診断、検査、自動化スクリプト
 
