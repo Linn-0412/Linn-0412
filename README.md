@@ -43,6 +43,7 @@
 | Repository | Type | Languages | Libraries / Platform |
 | --- | --- | --- | --- |
 | [icloud-album-viewer](https://github.com/Linn-0412/icloud-album-viewer) | iCloud 共有アルバムの軽量ビューア | JavaScript, CSS, HTML | Cloudflare Workers, D1, Wrangler, Node.js, Nodemailer |
+| [LiveAnnouncer](https://github.com/Linn-0412/LiveAnnouncer) | 配信開始時に X の告知投稿画面を自動で開く配信告知ツール | C# | .NET Framework 4.8, WinForms, obs-websocket, YouTube oEmbed, 署名付き自動アップデート, GitHub Actions |
 | [pip-kanpe-tool](https://github.com/Linn-0412/pip-kanpe-tool) | ブラウザで使う PiP カンペツール | JavaScript, CSS, HTML | Document Picture-in-Picture API, IndexedDB, localStorage, Chrome / Edge Extension |
 | [pip-kanpe-tool-desktop](https://github.com/Linn-0412/pip-kanpe-tool-desktop) | PiP カンペツールのデスクトップ版 | JavaScript, CSS, HTML, Rust | Tauri v2, Tauri updater, global shortcut, GitHub Releases |
 | [pokepoke](https://github.com/Linn-0412/pokepoke) | ポケポケのおすすめパック計算ツール | TypeScript, CSS, HTML | React, Vite, Vitest, Cloudflare Workers, GitHub Actions |
