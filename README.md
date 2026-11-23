@@ -42,6 +42,7 @@
 
 | Repository | Type | Languages | Libraries / Platform |
 | --- | --- | --- | --- |
+| [CommentDeck](https://github.com/Linn-0412/CommentDeck) | YouTube / Twitch のコメントを自由な見た目で OBS に表示する配信用コメント表示ツール | Rust, JavaScript, HTML, CSS | Tauri v2, Tauri updater, axum(WebSocket), YouTube / Twitch chat, GitHub Actions |
 | [icloud-album-viewer](https://github.com/Linn-0412/icloud-album-viewer) | iCloud 共有アルバムの軽量ビューア | JavaScript, CSS, HTML | Cloudflare Workers, D1, Wrangler, Node.js, Nodemailer |
 | [LiveAnnouncer](https://github.com/Linn-0412/LiveAnnouncer) | 配信開始時に X の告知投稿画面を自動で開く配信告知ツール | C# | .NET Framework 4.8, WinForms, obs-websocket, YouTube oEmbed, 署名付き自動アップデート, GitHub Actions |
 | [pip-kanpe-tool](https://github.com/Linn-0412/pip-kanpe-tool) | ブラウザで使う PiP カンペツール | JavaScript, CSS, HTML | Document Picture-in-Picture API, IndexedDB, localStorage, Chrome / Edge Extension |
