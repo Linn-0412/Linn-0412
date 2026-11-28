@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff" alt="Vite">
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=ffffff" alt="Tauri">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=ffffff" alt="Godot">
   <img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=ffffff" alt=".NET Framework">
   <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=ffffff" alt="Cloudflare Workers">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=ffffff" alt="Flask">
@@ -49,6 +50,7 @@
 | [pip-kanpe-tool-desktop](https://github.com/Linn-0412/pip-kanpe-tool-desktop) | PiP カンペツールのデスクトップ版 | JavaScript, CSS, HTML, Rust | Tauri v2, Tauri updater, global shortcut, GitHub Releases |
 | [pokepoke](https://github.com/Linn-0412/pokepoke) | ポケポケのおすすめパック計算ツール | TypeScript, CSS, HTML | React, Vite, Vitest, Cloudflare Workers, GitHub Actions |
 | [python-security-checker](https://github.com/Linn-0412/python-security-checker) | Python コード診断ツール | Python, Shell, C++ | Flask, Jinja2, Bandit, Pylint, Safety, ReportLab |
+| [StreamRaid](https://github.com/Linn-0412/StreamRaid) | 配信者と視聴者で「しじまの塔」を登る、コメント参加型の 3D アクション RPG(VRM アバター対応) | C#, GDScript | Godot 4.7(.NET), godot-vrm, YouTube / Twitch chat, 署名付き自動アップデート, GitHub Actions |
 | [StreamLauncher](https://github.com/Linn-0412/StreamLauncher) | 配信アプリをまとめて起動・終了する Windows ツール | C# | .NET Framework 4.8, WinForms, UI Automation, 署名付き自動アップデート, GitHub Actions |
 | [test_cpu](https://github.com/Linn-0412/test_cpu) | CPU / メモリ / I/O テストツール | Python | psutil, NumPy, SpeechRecognition, noisereduce, pydub, google-generativeai |
 | [tets_network](https://github.com/Linn-0412/tets_network) | ネットワーク系テストツール | Python | aiohttp, Rich |
@@ -60,6 +62,7 @@
 - データを集計して「次に何をすべきか」を判断しやすくする計算ツール
 - ブラウザ API とデスクトップアプリを組み合わせたユーティリティ
 - 配信準備・後片付けなど、配信まわりの定型作業を自動化するツール
+- 視聴者がコメントで参加できる、配信向けのゲーム
 - Python による診断、検査、自動化スクリプト
 
 ## GitHub Stats
